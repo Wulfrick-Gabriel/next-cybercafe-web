@@ -110350,7 +110350,7 @@ var $async$Jr=A.j(function(c,d){if(c===1){o.push(d)
 s=p}for(;;)switch(s){case 0:p=4
 l=t.z
 s=7
-return A.f(n.a.c5("transfer_store_ownership",A.Y(["p_store_entity_id",b,"p_new_owner_profile_id",a],t.N,l),l),$async$Jr)
+return A.f(n.a.c5("nextcafe_transfer_store",A.Y(["p_store_id",b,"p_new_owner_id",a],t.N,l),l),$async$Jr)
 case 7:q=null
 s=1
 break
