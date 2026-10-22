@@ -103999,7 +103999,7 @@ n=A.c8(new A.ad(B.dn,new A.bk(A.an(q,B.v,B.h,B.al),s,j,B.C,j),j),j,j)}else if(k.
 n=A.c8(A.i0(j,B.e,j,j,j,j,j,j,j,j),j,j)}else{s=k.w
 r=k.x
 q=t.p
-p=A.b([B.Gn,B.t],q)
+p=A.b([B.Gm,B.t],q)
 o=k.ch
 if(o!=null){A.aN(a)
 p.push(new A.ad(B.aw,new A.bk(A.N("Sua carteira: "+A.p(o)+" CR (transfer\xeancias da sua conta)",j,j,j,A.aD(j,j,B.e,j,j,j,j,j,j,j,j,10,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j,B.r9,j),j))}o=k.as
@@ -106269,7 +106269,7 @@ this.uy()},
 E(a){var s,r,q=this,p=null
 q.gaf().l2($.jc(),new A.aKT(q))
 if(q.x){A.aN(a)
-s=A.c8(A.i0(p,B.e,p,p,p,p,p,p,p,p),p,p)}else{s=A.b([B.Gs,B.p],t.p)
+s=A.c8(A.i0(p,B.e,p,p,p,p,p,p,p,p),p,p)}else{s=A.b([B.Gr,B.p],t.p)
 r=q.y
 if(r!=null)s.push(new A.dS(r,q.z,p))
 s.push(q.ak_())
@@ -106564,7 +106564,7 @@ s=k==null?n:k.z
 r=b.bx($.b3P(),t.y)
 k=l.b
 q=A.b2O(m,k==null?n:k.r,s,B.Si,r)
-k=A.b([B.Gr,B.Y,B.MZ,B.Y,A.N("EVENTOS PARA GANHAR "+"Cr\xe9ditos do Evento".toUpperCase(),n,n,n,A.aD(n,n,B.e.O(0.85),n,n,n,n,n,n,n,n,10,n,n,n,n,n,!0,n,1.2,n,n,n,n,n,n),B.H,n),B.Y],t.p)
+k=A.b([B.Gq,B.Y,B.MZ,B.Y,A.N("EVENTOS PARA GANHAR "+"Cr\xe9ditos do Evento".toUpperCase(),n,n,n,A.aD(n,n,B.e.O(0.85),n,n,n,n,n,n,n,n,10,n,n,n,n,n,!0,n,1.2,n,n,n,n,n,n),B.H,n),B.Y],t.p)
 p=q.length
 if(p===0)k.push(B.Wz)
 else for(o=0;o<q.length;q.length===p||(0,A.M)(q),++o)k.push(new A.ad(B.dV,new A.tY(q[o],n),n))
@@ -106776,7 +106776,7 @@ p=A.b([],b)
 o=d.Q
 if(o!=null){if(d.as){A.aN(a0)
 n=B.e}else n=B.P
-p.push(new A.ad(B.aw,A.N(o,c,c,c,A.aD(c,c,n,c,c,c,c,c,c,c,c,12,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),B.H,c),c))}p.push(B.Gp)
+p.push(new A.ad(B.aw,A.N(o,c,c,c,A.aD(c,c,n,c,c,c,c,c,c,c,c,12,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),B.H,c),c))}p.push(B.Go)
 p.push(B.p)
 p.push(B.UX)
 p.push(B.be)
@@ -107954,7 +107954,7 @@ aCA(){var s,r,q,p=this,o=null,n=p.as,m=p.a1Y(),l=p.c
 l.toString
 A.aN(l)
 l=t.p
-m=A.b([B.Gq,B.p,B.a7k,B.p,A.cA(o,n,o,A.o8(o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,m,o,o,o,o,o,o,o,o,"C\xd3DIGO DO CART\xc3O",!0,!0,!1,o,o,o,o,o,o,o,o,A.i6(o,o,A.cR(B.NF,B.e,o,o,o),o,o,new A.aQe(p),o,o,o),o,o,o,o,o),o,o,o,1,o,o,!1,B.a6,B.O,B.i2),B.t,A.u6(B.OD,B.a3,p.ax,!1,B.S_,new A.aQf(p),t.N)],l)
+m=A.b([B.Gp,B.p,B.a7k,B.p,A.cA(o,n,o,A.o8(o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,m,o,o,o,o,o,o,o,o,"C\xd3DIGO DO CART\xc3O",!0,!0,!1,o,o,o,o,o,o,o,o,A.i6(o,o,A.cR(B.NF,B.e,o,o,o),o,o,new A.aQe(p),o,o,o),o,o,o,o,o),o,o,o,1,o,o,!1,B.a6,B.O,B.i2),B.t,A.u6(B.OD,B.a3,p.ax,!1,B.S_,new A.aQf(p),t.N)],l)
 if(p.ax==="PLAYER"){s=A.cA(o,p.at,o,B.OO,o,o,o,1,o,o,!1,B.a6,B.O,B.ad)
 r=p.ay
 r=A.bS(A.N(r!=null?"CR\xc9DITOS NA TAG: "+A.p(r):"CR\xc9DITOS NA TAG: carregue do jogador ou do cart\xe3o",o,o,o,B.a2L,o,o),1)
@@ -109245,7 +109245,7 @@ if(r.length!==0){q.push(A.N("F\xcdSICAS \xb7 DCR",m,m,m,A.aD(m,m,B.u.O(0.9),m,m,
 q.push(B.t)
 B.b.G(q,r)}r=A.DQ(m,!0,"Lojas f\xedsicas \xb7 Cr\xe9ditos do Evento","LOJAS")
 if(q.length===0)l=B.J1
-else{p=A.b([B.Gm,B.p],l)
+else{p=A.b([B.Gn,B.p],l)
 for(o=0;o<q.length;++o){n=A.b([],l)
 if(o>0)n.push(B.p)
 n.push(q[o])
@@ -110100,7 +110100,7 @@ s=A.c8(A.i0(o,B.e,o,o,o,o,o,o,o,o),o,o)}else{s=t.p
 r=A.b([],s)
 q=p.z
 if(q!=null)r.push(new A.ad(B.aw,new A.dS(q,p.Q,o),o))
-r.push(B.Go)
+r.push(B.Gs)
 r.push(B.be)
 r.push(A.bS(p.aAh(),1))
 r.push(B.be)
@@ -123921,14 +123921,14 @@ B.Gj=new A.Ry(null)
 B.aaf=new A.aHG(0,"standard")
 B.Gk=new A.Rw(B.Ek,null,null,B.Gj,null,null,null,null,null,null)
 B.Gl=new A.DZ(null,null,null,null,null,null,null,null)
-B.Gm=new A.iB("IMAGE PLACEHOLDER","lojas",null)
-B.Gn=new A.iB("IMAGE PLACEHOLDER","enviar_creditos",null)
-B.Go=new A.iB("MERCADO DE LOJAS","lojas",null)
+B.Gm=new A.iB("IMAGE PLACEHOLDER","enviar_creditos",null)
 B.ik=new A.iB("IMAGE PLACEHOLDER","scan_jogadores",null)
-B.Gp=new A.iB("IMAGE PLACEHOLDER","perfil",null)
-B.Gq=new A.iB("IMAGE PLACEHOLDER","scan_gravar",null)
-B.Gr=new A.iB("EXPERI\xcaNCIAS","experiencias",null)
-B.Gs=new A.iB("IMAGE PLACEHOLDER","minha_carteira",null)
+B.Gn=new A.iB("LOJAS","lojas",null)
+B.Go=new A.iB("IMAGE PLACEHOLDER","perfil",null)
+B.Gp=new A.iB("IMAGE PLACEHOLDER","scan_gravar",null)
+B.Gq=new A.iB("EXPERI\xcaNCIAS","experiencias",null)
+B.Gr=new A.iB("IMAGE PLACEHOLDER","minha_carteira",null)
+B.Gs=new A.iB("MERCADO DE LOJAS","mercado_lojas",null)
 B.Gt=new A.iB("IMAGE PLACEHOLDER","scan_ler",null)
 B.Gv=new A.E0(!1)
 B.Gu=new A.E_(B.Gv)
