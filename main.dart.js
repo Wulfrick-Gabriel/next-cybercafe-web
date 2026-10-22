@@ -104876,7 +104876,7 @@ A.a1m.prototype={
 j9(a,b){var s=A.aN(a)
 return A.ac4(b.bm($.b3X(),t.Ei),new A.aFr(a,b.bm($.b_0(),t.VO)),new A.aFs(),new A.aFt(s),!1,!0,!1,t.wh,t.l7)}}
 A.aFt.prototype={
-$0(){return new A.hD(B.a_K,B.e.O(0.35),B.ao,!0,null,null)},
+$0(){return new A.hD(B.a_L,B.e.O(0.35),B.ao,!0,null,null)},
 $S:711}
 A.aFs.prototype={
 $2(a,b){return B.au},
@@ -104893,7 +104893,7 @@ break}++q}if(s==null)return new A.Cf(new A.aFn(m.a),l)
 o=A.b_h(m.b,new A.aFo(a),new A.aFp(),t.GU,t.T)
 r=A.bq(2)
 n=s.d.O(0.55)
-return A.er(!1,B.P,!0,l,A.fz(!1,r,!0,new A.hD(A.cs(new A.za(s,o,!0,168,1,l),168,1/0),n,B.ao,!0,l,l),l,!0,l,l,l,l,l,l,l,l,new A.aFq(m.a),l,l,l,l),B.q,B.y,0,l,l,l,l,l,B.b4)},
+return A.er(!1,B.P,!0,l,A.fz(!1,r,!0,new A.hD(A.cs(new A.za(s,o,!0,220,1,l),220,1/0),n,B.ao,!0,l,l),l,!0,l,l,l,l,l,l,l,l,new A.aFq(m.a),l,l,l,l),B.q,B.y,0,l,l,l,l,l,B.b4)},
 $S:713}
 A.aFm.prototype={
 $0(){return A.fy(this.a,"/knowledge-fight",t.X)},
@@ -104931,7 +104931,7 @@ A.aNo.prototype={
 $2(a,b){var s,r=null,q=this.a.a.c,p=A.bq(2),o=this.b,n=o.b
 o=o.a
 s=B.aA.O(0.35+n.ah(o.gq())*0.45)
-return A.er(!1,B.P,!0,r,A.fz(!1,p,!0,new A.hD(A.cs(A.c6(A.M("Escolha seu Curso!",r,r,r,A.aA(r,r,B.e.O(0.55+n.ah(o.gq())*0.45),r,r,r,r,r,r,r,r,16,r,r,B.d1,r,r,!0,r,0.6,r,r,r,A.b([new A.ky(B.aA.O(0.25+n.ah(o.gq())*0.35),B.j,14)],t.kO),r,r),B.H,r),r,r),112,1/0),s,B.Mq,!0,r,r),r,!0,r,r,r,r,r,r,r,r,q,r,r,r,r),B.q,B.y,0,r,r,r,r,r,B.b4)},
+return A.er(!1,B.P,!0,r,A.fz(!1,p,!0,new A.hD(A.cs(A.c6(A.M("Escolha seu Curso!",r,r,r,A.aA(r,r,B.e.O(0.55+n.ah(o.gq())*0.45),r,r,r,r,r,r,r,r,16,r,r,B.d1,r,r,!0,r,0.6,r,r,r,A.b([new A.ky(B.aA.O(0.25+n.ah(o.gq())*0.35),B.j,14)],t.kO),r,r),B.H,r),r,r),164,1/0),s,B.Mq,!0,r,r),r,!0,r,r,r,r,r,r,r,r,q,r,r,r,r),B.q,B.y,0,r,r,r,r,r,B.b4)},
 $S:715}
 A.PB.prototype={
 a_(){return new A.PC()}}
@@ -124481,8 +124481,8 @@ B.J3=new A.dH(B.L,null,null,B.a7v,null)
 B.he=new A.ab(0,8,0,8)
 B.ac2=new A.aBQ(0,"material")
 B.q6=new A.jm(2,null,null,null,null,null,null,null,null,null)
-B.a_L=new A.cG(22,22,B.q6,null)
-B.Ww=new A.ad(B.he,B.a_L,null)
+B.a_K=new A.cG(22,22,B.q6,null)
+B.Ww=new A.ad(B.he,B.a_K,null)
 B.J4=new A.dH(B.L,null,null,B.Ww,null)
 B.dq=new A.ab(24,24,24,24)
 B.b7=new A.u(!0,B.u,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -127143,7 +127143,7 @@ B.Jm=new A.jm(2.2,null,null,null,null,B.o,null,null,null,null)
 B.a_J=new A.cG(22,22,B.Jm,null)
 B.a_M=new A.cG(28,28,B.q6,null)
 B.J9=new A.dH(B.L,null,null,B.a_M,null)
-B.a_K=new A.cG(null,168,B.J9,null)
+B.a_L=new A.cG(null,220,B.J9,null)
 B.b6=new A.cG(null,10,null,null)
 B.oi=new A.cG(null,14,null,null)
 B.Y=new A.cG(null,16,null,null)
