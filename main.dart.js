@@ -104863,11 +104863,11 @@ return A.c8(A.M(this.a,s,s,s,A.aC(s,s,this.b,s,s,s,s,s,s,s,s,16,s,s,B.q,s,s,!0,s
 $S:126}
 A.a7a.prototype={
 E(a){var s,r=this,q=t.p,p=A.b([],q)
-B.b.G(p,A.b([A.b1B(B.aE,!1,B.NB,24,"BUSCAR JOGADORES",r.w,!1,null),B.bR],q))
+B.b.G(p,A.b([A.b1B(B.aE,!1,B.NB,24,"JOGADORES",r.w,!1,null),B.bR],q))
 s=r.d
 if(s==null)s=0
-p.push(A.b1B(B.aE,!0,B.NT,16,"CR\xc9DITOS DO EVENTO",r.r,!0,""+s))
-if(r.e)B.b.G(p,A.b([B.bR,A.b1B(B.aE,!1,B.rV,24,"BUSCAR LOJAS",r.x,!1,null)],q))
+p.push(A.b1B(B.aE,!0,B.NT,16,"CR\xc9DITOS",r.r,!0,""+s))
+if(r.e)B.b.G(p,A.b([B.bR,A.b1B(B.aE,!1,B.rV,24,"LOJAS",r.x,!1,null)],q))
 return A.bK(p,B.v,B.h,B.k,0)}}
 A.a77.prototype={
 E(a){var s,r,q,p,o,n=this,m=null,l=n.x,k=l?B.aE.O(0.9):n.r.O(0.4),j=n.r,i=A.cS(n.w,j.O(0.9),m,m,n.f),h=A.M(n.c,m,m,m,A.aC(m,m,B.u.O(0.95),m,m,m,m,m,m,m,m,8,m,m,m,m,m,!0,m,0.5,m,m,m,m,m,m),B.H,m)
