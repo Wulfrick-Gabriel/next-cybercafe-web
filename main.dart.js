@@ -106290,7 +106290,7 @@ p=p==null?n:p.Q
 if(p==null)p="\u2014"
 s.push(new A.bk(A.an(A.b([B.a7t,B.bF,A.N("Compartilhe seu c\xf3digo "+p+" para que a equipe ou outros jogadores enviem Cr\xe9ditos do Evento pelo bot\xe3o ENVIAR CR\xc9DITOS ou pelos terminais do evento.",n,n,n,A.aD(n,n,B.u.O(0.95),n,n,n,n,n,n,n,n,10,n,n,n,n,1.4,!0,n,n,n,n,n,n,n,n),n,n)],r),B.V,B.h,B.k),q,n,B.C,n))
 s.push(B.p)
-s.push(B.UV)
+s.push(B.UU)
 s.push(B.t)
 s.push(A.bm(n,"REFRESH",!1,o.gauW(),B.ak))
 return A.an(s,B.x,B.h,B.k)}}
@@ -106777,7 +106777,7 @@ if(o!=null){if(d.as){A.aN(a0)
 n=B.e}else n=B.P
 p.push(new A.ad(B.aw,A.N(o,c,c,c,A.aD(c,c,n,c,c,c,c,c,c,c,c,12,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),B.H,c),c))}p.push(B.Go)
 p.push(B.p)
-p.push(B.UW)
+p.push(B.UV)
 p.push(B.be)
 p.push(B.yP)
 p.push(B.p)
@@ -109236,8 +109236,8 @@ l=b.W($.d0(),t.A).gb7().c
 l=l==null?m:l.r
 s=l==null?m:l.z
 l=t.p
-r=A.b([B.UX],l)
-if(A.lR(k,s,"redeem-rewards"))r.push(B.UU)
+r=A.b([B.UW],l)
+if(A.lR(k,s,"redeem-rewards"))r.push(B.UX)
 if(A.lR(k,s,"store-inventory"))r.push(B.UT)
 q=A.b([],l)
 if(r.length!==0){q.push(A.N("F\xcdSICAS \xb7 DCR",m,m,m,A.aD(m,m,B.u.O(0.9),m,m,m,m,m,m,m,m,10,m,m,m,m,m,!0,m,1.2,m,m,m,m,m,m),m,m))
@@ -126459,11 +126459,11 @@ B.US=new A.iP("KF RANKING AO VIVO","Placar em tempo real para transmiss\xe3o","/
 B.yP=new A.iP("KNOWLEDGE FIGHT","Quiz 1v1 entre cursos FIAP","/knowledge-fight",B.rY,"knowledge-fight",B.P,null)
 B.O0=new A.ba(984310,"MaterialIcons",null,!1)
 B.UT=new A.iP("EDITAR LOJA","Alterar os dados cadastrados e o menu de itens \xe0 venda","/stores/manage",B.O0,"store-inventory",B.af,null)
-B.UU=new A.iP("COMPRAS","Pedidos e retiradas nas lojas f\xedsicas","/redeem",B.rM,"redeem-rewards",B.af,null)
-B.UV=new A.iP("MINHAS TRANSA\xc7\xd5ES","Seu hist\xf3rico de atividades","/my-transactions",B.mY,"my-transactions",B.af,null)
+B.UU=new A.iP("MINHAS TRANSA\xc7\xd5ES","Seu hist\xf3rico de atividades","/my-transactions",B.mY,"my-transactions",B.af,null)
 B.NO=new A.ba(61703,"MaterialIcons",null,!1)
-B.UW=new A.iP("MEU PERFIL","Voltar ao Nexus e m\xf3dulos do evento","/dashboard",B.NO,"profile",B.af,null)
-B.UX=new A.iP("Mercado de Lojas","Fa\xe7a Compras!","/wallet-stores",B.rW,"wallet-stores",B.af,null)
+B.UV=new A.iP("MEU PERFIL","Voltar ao Nexus e m\xf3dulos do evento","/dashboard",B.NO,"profile",B.af,null)
+B.UW=new A.iP("Mercado de Lojas","Fa\xe7a Compras!","/wallet-stores",B.rW,"wallet-stores",B.af,null)
+B.UX=new A.iP("Minhas Compras","Pedidos e retiradas nas lojas f\xedsicas","/redeem",B.rM,"redeem-rewards",B.af,null)
 B.UY=new A.iP("MINHA CARTEIRA","Saldo de Cr\xe9ditos do Evento","/my-wallet",B.mU,"my-wallet",B.e,null)
 B.UZ=new A.iP("KF RANKING AO VIVO","Knowledge Fight \u2014 placar para transmiss\xe3o","/knowledge-fight/live",B.mZ,"knowledge-fight-live",B.P,null)
 B.f5=new A.VT(0,"latestPointer")
