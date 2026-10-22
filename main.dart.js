@@ -104693,7 +104693,7 @@ A.aFu.prototype={
 $0(){return A.hx(this.a,"/online-users",t.X)},
 $S:0}
 A.aFv.prototype={
-$0(){return A.hx(this.a,"/stores",t.X)},
+$0(){return A.hx(this.a,"/wallet-stores",t.X)},
 $S:0}
 A.LB.prototype={}
 A.p5.prototype={}
@@ -104846,7 +104846,7 @@ B.b.G(p,A.b([A.b1E(B.aE,!1,B.NB,24,"BUSCAR JOGADORES",r.w,!1,null),B.bR],q))
 s=r.d
 if(s==null)s=0
 p.push(A.b1E(B.aE,!0,B.NT,16,"CR\xc9DITOS DO EVENTO",r.r,!0,""+s))
-if(r.e)B.b.G(p,A.b([B.bR,A.b1E(B.aE,!1,B.rV,24,"BUSCAR LOJAS",r.x,!1,null)],q))
+if(r.e)B.b.G(p,A.b([B.bR,A.b1E(B.aE,!1,B.rV,24,"MERCADO DE LOJAS",r.x,!1,null)],q))
 return A.bK(p,B.v,B.h,B.k,0)}}
 A.a77.prototype={
 E(a){var s,r,q,p,o,n=this,m=null,l=n.x,k=l?B.aE.O(0.9):n.r.O(0.4),j=n.r,i=A.cR(n.w,j.O(0.9),m,m,n.f),h=A.N(n.c,m,m,m,A.aD(m,m,B.u.O(0.95),m,m,m,m,m,m,m,m,8,m,m,m,m,m,!0,m,0.5,m,m,m,m,m,m),B.H,m)
@@ -128615,8 +128615,8 @@ s($,"bAQ","b3Q",()=>A.mm(new A.aZ_(),t.GU))
 s($,"bAO","aZR",()=>A.bjc(null,t.uK))
 s($,"bAP","bfM",()=>A.vF(new A.aYX(),t.aq))
 s($,"byq","bet",()=>A.b([B.a9P,new A.LB("Admin",B.d2,A.b([B.a9S,B.a9R,B.a9Q,B.a9T],A.av("x<p5>")),!1,!0,"Admin",!1)],A.av("x<LB>")))
-s($,"byg","bel",()=>{var q="M\xc1QUINAS"
-return A.b([A.fd(B.af,"Apelido e conta","profile",B.mX,"MEU PERFIL","/profile"),A.fd(B.P,"Quiz 1v1 entre cursos FIAP","knowledge-fight",B.rY,"KNOWLEDGE FIGHT","/knowledge-fight"),A.fd(B.af,"Saldo de Cr\xe9ditos do Evento","my-wallet",B.mU,"MINHA CARTEIRA","/my-wallet"),A.fd(B.af,"Transferir Cr\xe9ditos do Evento","add-credits",B.rX,"ENVIAR CR\xc9DITOS","/credits/add"),A.fd(B.af,"Lojas f\xedsicas do evento","stores-hub",B.O_,"LOJAS","/stores"),A.fd(B.af,"Seu hist\xf3rico","my-transactions",B.mY,"MINHAS TRANSA\xc7\xd5ES","/my-transactions"),A.fd(B.u,"Prefer\xeancias do app","settings",B.rR,"CONFIGURA\xc7\xd5ES","/settings"),A.fd(B.af,"Leitura NFC","scan-card",B.rQ,"LER CART\xc3O","/scan"),A.fd(B.af,"Ganhe Cr\xe9ditos!","operations",B.n_,"EXPERI\xcaNCIAS","/operations"),A.fd(B.af,"Criar conta de jogador","register-player",B.NC,"CADASTRAR JOGADOR","/register/player"),A.fd(B.af,"Carteiras de lojas vinculadas","wallet-stores",B.rS,"LOJAS F\xcdSICAS","/wallet-stores"),A.fd(B.af,"Opera\xe7\xf5es do banco do evento","main-bank",B.rL,"BANCO PRINCIPAL","/main-bank"),A.fd(B.P,"Knowledge Fight \u2014 transmiss\xe3o","knowledge-fight-live",B.mZ,"KF RANKING AO VIVO","/knowledge-fight/live"),A.fd(B.af,"M\xe1quinas cadastradas","machines",B.rU,q,"/operations/machines"),A.fd(B.af,"Cadastrar e alterar m\xe1quinas do piso","register-machines",B.rU,q,"/register/machine"),A.fd(B.af,"Resgatar recompensas","redeem-rewards",B.rM,"RESGATAR","/redeem"),A.fd(B.af,"Criar loja f\xedsica","register-store",B.Nk,"CADASTRAR LOJA","/register/store"),A.fd(B.af,"Transferir dono da loja","store-ownership-transfer",B.NJ,"TRANSFERIR LOJA","/admin/store-ownership"),A.fd(B.af,"Gest\xe3o de contas","user-management",B.Nz,"USU\xc1RIOS","/users"),A.fd(B.af,"Vis\xe3o geral do ledger","all-transactions",B.NE,"TODAS AS TRANSA\xc7\xd5ES","/transactions"),A.fd(B.af,"Vis\xe3o geral das carteiras","all-wallets",B.O1,"TODAS AS CARTEIRAS","/wallet")],A.av("x<eV>"))})
+s($,"byg","bel",()=>{var q="/wallet-stores",p="M\xc1QUINAS"
+return A.b([A.fd(B.af,"Apelido e conta","profile",B.mX,"MEU PERFIL","/profile"),A.fd(B.P,"Quiz 1v1 entre cursos FIAP","knowledge-fight",B.rY,"KNOWLEDGE FIGHT","/knowledge-fight"),A.fd(B.af,"Saldo de Cr\xe9ditos do Evento","my-wallet",B.mU,"MINHA CARTEIRA","/my-wallet"),A.fd(B.af,"Transferir Cr\xe9ditos do Evento","add-credits",B.rX,"ENVIAR CR\xc9DITOS","/credits/add"),A.fd(B.af,"Fa\xe7a Compras!","stores-hub",B.O_,"Mercado de Lojas",q),A.fd(B.af,"Seu hist\xf3rico","my-transactions",B.mY,"MINHAS TRANSA\xc7\xd5ES","/my-transactions"),A.fd(B.u,"Prefer\xeancias do app","settings",B.rR,"CONFIGURA\xc7\xd5ES","/settings"),A.fd(B.af,"Leitura NFC","scan-card",B.rQ,"LER CART\xc3O","/scan"),A.fd(B.af,"Ganhe Cr\xe9ditos!","operations",B.n_,"EXPERI\xcaNCIAS","/operations"),A.fd(B.af,"Criar conta de jogador","register-player",B.NC,"CADASTRAR JOGADOR","/register/player"),A.fd(B.af,"Carteiras de lojas vinculadas","wallet-stores",B.rS,"LOJAS F\xcdSICAS",q),A.fd(B.af,"Opera\xe7\xf5es do banco do evento","main-bank",B.rL,"BANCO PRINCIPAL","/main-bank"),A.fd(B.P,"Knowledge Fight \u2014 transmiss\xe3o","knowledge-fight-live",B.mZ,"KF RANKING AO VIVO","/knowledge-fight/live"),A.fd(B.af,"M\xe1quinas cadastradas","machines",B.rU,p,"/operations/machines"),A.fd(B.af,"Cadastrar e alterar m\xe1quinas do piso","register-machines",B.rU,p,"/register/machine"),A.fd(B.af,"Resgatar recompensas","redeem-rewards",B.rM,"RESGATAR","/redeem"),A.fd(B.af,"Criar loja f\xedsica","register-store",B.Nk,"CADASTRAR LOJA","/register/store"),A.fd(B.af,"Transferir dono da loja","store-ownership-transfer",B.NJ,"TRANSFERIR LOJA","/admin/store-ownership"),A.fd(B.af,"Gest\xe3o de contas","user-management",B.Nz,"USU\xc1RIOS","/users"),A.fd(B.af,"Vis\xe3o geral do ledger","all-transactions",B.NE,"TODAS AS TRANSA\xc7\xd5ES","/transactions"),A.fd(B.af,"Vis\xe3o geral das carteiras","all-wallets",B.O1,"TODAS AS CARTEIRAS","/wallet")],A.av("x<eV>"))})
 s($,"byf","bek",()=>{var q,p,o,n=A.v(t.N,A.av("eV"))
 for(q=$.bel(),p=0;p<21;++p){o=q[p]
 n.n(0,o.d,o)}return n})
