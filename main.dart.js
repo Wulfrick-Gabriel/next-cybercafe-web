@@ -105052,7 +105052,7 @@ E(a){var s,r,q=this,p=null,o=q.e,n=B.js[o],m=o>0?new A.aII(q):p,l=n.d
 m=A.i6(p,p,A.cT(B.Nv,l,p,p,36),p,p,m,p,p,p)
 s=q.d
 s===$&&A.a()
-s=A.bT(new A.DU(0.43269230769230765,A.b79(s,new A.aIJ(q),8,new A.aIK(q)),p),1)
+s=A.bT(new A.DU(0.33284023668639057,A.b79(s,new A.aIJ(q),8,new A.aIK(q)),p),1)
 o=o<7?new A.aIL(q):p
 r=t.p
 return A.am(A.b([A.bK(A.b([m,s,A.i6(p,p,A.cT(B.eW,l,p,p,36),p,p,o,p,p,p)],r),B.v,B.h,B.k,0),B.t,A.M(n.f,p,p,p,B.a0,B.H,p),B.aX,A.M(""+(q.e+1)+" / 8",p,p,p,B.a0,B.H,p),B.p,A.bm(p,"ESCOLHER ESTE CURSO",!1,new A.aIM(q,n),B.Z)],r),B.w,B.h,B.k)}}
@@ -105068,7 +105068,7 @@ $0(){return this.a.e=this.b},
 $S:0}
 A.aIJ.prototype={
 $2(a,b){var s=B.js[b]
-return new A.ad(B.MC,new A.za(s,this.a.a.d.h(0,s.a),!0,null,1.3,null),null)},
+return new A.ad(B.MC,new A.za(s,this.a.a.d.h(0,s.a),!0,null,1.69,null),null)},
 $S:269}
 A.aIL.prototype={
 $0(){return this.a.a_0(1)},
@@ -105305,7 +105305,7 @@ alK(a){var s=this,r=null,q=s.y
 return A.hK(A.am(A.b([new A.zb(q,s.OH(a,q.a),!1,1,r),B.Y,B.a6T,B.Y,A.bm(r,"CONFIRMAR CURSO",!1,s.galL(),B.Z),B.t,A.bm(r,"VOLTAR",!1,new A.aIV(s),B.ak)],t.p),B.w,B.h,B.k),!0,118,r,r)},
 am1(a){var s=null,r=this.x,q=r==null?s:r.a,p=A.aYb(q)
 if(p==null)return B.Jf
-return A.hK(A.am(A.b([new A.zb(p,this.OH(a,q),!0,1.3,s),B.Y,A.bm(s,"ENTRAR NA FILA",!1,new A.aJ_(this),B.Z)],t.p),B.w,B.h,B.k),!0,118,s,s)},
+return A.hK(A.am(A.b([new A.zb(p,this.OH(a,q),!0,1.69,s),B.Y,A.bm(s,"ENTRAR NA FILA",!1,new A.aJ_(this),B.Z)],t.p),B.w,B.h,B.k),!0,118,s,s)},
 aue(a){var s,r,q,p=this,o=null,n=p.x,m=n==null?o:n.a,l=A.aYb(m)
 n=t.p
 s=A.b([],n)
