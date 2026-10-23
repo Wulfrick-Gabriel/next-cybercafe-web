@@ -104916,7 +104916,7 @@ break}++q}if(s==null)return new A.Cf(new A.aFr(m.a),l)
 o=A.b_m(m.b,new A.aFs(a),new A.aFt(),t.GU,t.T)
 r=A.bm(2)
 n=s.d.O(0.55)
-return A.er(!1,B.P,!0,l,A.fA(!1,r,!0,new A.hE(A.b6B(o,B.e,10,s,220,!0),n,B.MF,!0,l,l),l,!0,l,l,l,l,l,l,l,l,new A.aFu(m.a),l,l,l,l),B.q,B.w,0,l,l,l,l,l,B.b5)},
+return A.er(!1,B.P,!0,l,A.fA(!1,r,!0,new A.hE(A.b6B(o,B.e,10,s,275,!0),n,B.MF,!0,l,l),l,!0,l,l,l,l,l,l,l,l,new A.aFu(m.a),l,l,l,l),B.q,B.w,0,l,l,l,l,l,B.b5)},
 $S:713}
 A.aFq.prototype={
 $0(){return A.fz(this.a,"/knowledge-fight",t.X)},
@@ -104953,7 +104953,7 @@ return A.jh(s,new A.aNt(this,s),null)}}
 A.aNt.prototype={
 $2(a,b){var s=null,r=this.a.a.c,q=A.bm(2),p=this.b
 p=B.aC.O(0.35+p.b.ak(p.a.gq())*0.45)
-return A.er(!1,B.P,!0,s,A.fA(!1,q,!0,new A.hE(A.cp(A.l4(A.bm(2),A.o6(A.b6A("escolha_seu_curso"),B.cn,new A.aNs(),B.b4,B.bX,!0,s,s,s),B.aQ),220,1/0),p,B.ao,!0,s,s),s,!0,s,s,s,s,s,s,s,s,r,s,s,s,s),B.q,B.w,0,s,s,s,s,s,B.b5)},
+return A.er(!1,B.P,!0,s,A.fA(!1,q,!0,new A.hE(A.cp(A.l4(A.bm(2),A.o6(A.b6A("escolha_seu_curso"),B.cn,new A.aNs(),B.b4,B.bX,!0,s,s,s),B.aQ),275,1/0),p,B.ao,!0,s,s),s,!0,s,s,s,s,s,s,s,s,r,s,s,s,s),B.q,B.w,0,s,s,s,s,s,B.b5)},
 $S:715}
 A.aNs.prototype={
 $3(a,b,c){return B.J3},
@@ -127201,7 +127201,7 @@ B.Jn=new A.jn(2.2,null,null,null,null,B.o,null,null,null,null)
 B.a_N=new A.cG(22,22,B.Jn,null)
 B.a_Q=new A.cG(28,28,B.q6,null)
 B.Ja=new A.dy(B.K,null,null,B.a_Q,null)
-B.a_P=new A.cG(null,220,B.Ja,null)
+B.a_P=new A.cG(null,275,B.Ja,null)
 B.b7=new A.cG(null,10,null,null)
 B.oi=new A.cG(null,14,null,null)
 B.Y=new A.cG(null,16,null,null)
