@@ -104952,7 +104952,7 @@ A.aNs.prototype={
 $2(a,b){var s,r=null,q=this.a.a.c,p=A.bp(2),o=this.b,n=o.b
 o=o.a
 s=B.aA.O(0.35+n.ah(o.gq())*0.45)
-return A.er(!1,B.P,!0,r,A.fA(!1,p,!0,new A.hE(A.cp(A.c3(A.M("Escolha seu Curso!",r,r,r,A.ay(r,r,B.e.O(0.55+n.ah(o.gq())*0.45),r,r,r,r,r,r,r,r,16,r,r,B.cd,r,r,!0,r,0.6,r,r,r,A.b([new A.jL(B.aA.O(0.25+n.ah(o.gq())*0.35),B.j,14)],t.kO),r,r),B.H,r),r,r),164,1/0),s,B.Ms,!0,r,r),r,!0,r,r,r,r,r,r,r,r,q,r,r,r,r),B.q,B.w,0,r,r,r,r,r,B.b4)},
+return A.er(!1,B.P,!0,r,A.fA(!1,p,!0,new A.hE(A.cp(A.c3(A.M("Escolha seu Curso!",r,r,r,A.ay(r,r,B.e.O(0.55+n.ah(o.gq())*0.45),r,r,r,r,r,r,r,r,19,r,r,B.cd,r,r,!0,r,0.6,r,r,r,A.b([new A.jL(B.aA.O(0.25+n.ah(o.gq())*0.35),B.j,14)],t.kO),r,r),B.H,r),r,r),164,1/0),s,B.Ms,!0,r,r),r,!0,r,r,r,r,r,r,r,r,q,r,r,r,r),B.q,B.w,0,r,r,r,r,r,B.b4)},
 $S:715}
 A.PB.prototype={
 a_(){return new A.PC()}}
@@ -104977,7 +104977,7 @@ l=A.ay(d,d,n.O(0.95),d,d,d,d,d,d,d,d,10,d,d,d,d,d,!0,d,0.6,d,d,d,d,d,d)
 a0=B.e.O(0.55)
 r=A.b([B.e.O(0.14),B.a3,B.iM],t.t_)
 k=A.lr(0,new A.dQ(B.dK,d,d,A.M("NEXT",d,d,d,A.ay(d,d,B.e.O(0.12),d,d,d,d,d,d,d,d,42,d,d,B.rI,d,d,!0,d,6,d,d,d,d,d,d),d,d),d),d,d,d,0,0,d)
-j=A.cp(A.b7z(A.bs_(b,e.a.d.e,s),b,d,new A.aVP(a1)),56,56)
+j=A.cp(A.b7z(A.bs_(b,e.a.d.e,s),b,d,new A.aVP(a1)),67.2,67.2)
 i=t.p
 h=A.bG(A.b([new A.nX(1,B.hi,A.M(a.toUpperCase(),d,B.av,d,B.a2h,d,d),d),B.oh,B.Vm],i),B.v,B.h,B.k,0)
 g=A.bG(A.b([A.M("LV: "+o,d,d,d,A.ay(d,d,n.O(0.95),d,d,d,d,d,d,d,d,10,d,d,d,d,d,!0,d,0.8,d,d,d,d,d,d),d,d),A.M("; ",d,d,d,A.ay(d,d,n.O(0.7),d,d,d,d,d,d,d,d,10,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),d,d),A.cP(B.NN,n.O(0.95),d,d,12),B.Ed,A.M(q,d,d,d,l,d,d)],i),B.v,B.h,B.k,0)
@@ -104994,7 +104994,7 @@ $0(){return A.fz(this.a,"/profile",t.X)},
 $S:0}
 A.aXi.prototype={
 $3(a,b,c){var s=null
-return A.c3(A.M(this.a,s,s,s,A.ay(s,s,this.b,s,s,s,s,s,s,s,s,16,s,s,B.r,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s)},
+return A.c3(A.M(this.a,s,s,s,A.ay(s,s,this.b,s,s,s,s,s,s,s,s,19,s,s,B.r,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s)},
 $S:88}
 A.a7h.prototype={
 E(a){var s,r=this,q=t.p,p=A.b([],q)
