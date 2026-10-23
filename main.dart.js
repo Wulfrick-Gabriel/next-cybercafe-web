@@ -104952,7 +104952,7 @@ A.aNs.prototype={
 $2(a,b){var s,r=null,q=this.a.a.c,p=A.bp(2),o=this.b,n=o.b
 o=o.a
 s=B.aA.O(0.35+n.ah(o.gq())*0.45)
-return A.er(!1,B.P,!0,r,A.fA(!1,p,!0,new A.hE(A.cp(A.c3(A.M("Escolha seu Curso!",r,r,r,A.ay(r,r,B.e.O(0.55+n.ah(o.gq())*0.45),r,r,r,r,r,r,r,r,19,r,r,B.cd,r,r,!0,r,0.6,r,r,r,A.b([new A.jL(B.aA.O(0.25+n.ah(o.gq())*0.35),B.j,14)],t.kO),r,r),B.H,r),r,r),164,1/0),s,B.Ms,!0,r,r),r,!0,r,r,r,r,r,r,r,r,q,r,r,r,r),B.q,B.w,0,r,r,r,r,r,B.b4)},
+return A.er(!1,B.P,!0,r,A.fA(!1,p,!0,new A.hE(A.cp(A.c3(A.M("Escolha seu Curso!",r,r,r,A.ay(r,r,B.e.O(0.55+n.ah(o.gq())*0.45),r,r,r,r,r,r,r,r,16,r,r,B.cd,r,r,!0,r,0.6,r,r,r,A.b([new A.jL(B.aA.O(0.25+n.ah(o.gq())*0.35),B.j,14)],t.kO),r,r),B.H,r),r,r),164,1/0),s,B.Ms,!0,r,r),r,!0,r,r,r,r,r,r,r,r,q,r,r,r,r),B.q,B.w,0,r,r,r,r,r,B.b4)},
 $S:715}
 A.PB.prototype={
 a_(){return new A.PC()}}
