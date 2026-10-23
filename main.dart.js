@@ -105071,7 +105071,7 @@ A.Vk.prototype={
 E(a){var s=null,r=this.c,q=B.c.a5(r.a),p=B.c.a5(A.yM()),o=A.aV("/+$",!0,!1,!1),n=A.bX(p,o,"")
 r=r.d
 p=t.t_
-return A.m7(A.bp(6),A.fr(B.by,A.b([A.hw(s,new A.bT(s,s,s,s,s,new A.iO(B.cD,B.ih,B.c3,A.b([r.O(0.25),B.a3,B.o.O(0.9)],p),s,s),B.a1),B.br),A.qk(n+"/storage/v1/object/public/store-assets/kf-coordinator-splash/"+q.toLowerCase()+".jpg?v=20261023085200",B.cC,new A.alC(this),B.bd,B.c6,!0,s,s,s),new A.dQ(B.dk,s,s,A.cM(s,s,B.q,s,s,new A.bT(s,s,s,s,s,new A.iO(B.cC,B.dk,B.c3,A.b([B.w,B.o.O(0.85)],p),s,s),B.a1),s,this.d*0.38,s,s,s,s,s),s),A.lr(8,A.M("COORDENA\xc7\xc3O",1,B.av,s,A.ay(s,s,r.O(0.95),s,s,s,s,s,s,s,s,9,s,s,B.cd,s,s,!0,s,1.1,s,s,s,s,s,s),s,s),s,s,8,8,s,s)],t.p),B.S,B.i0,s),B.aU)}}
+return A.m7(A.bp(6),A.fr(B.by,A.b([A.hw(s,new A.bT(s,s,s,s,s,new A.iO(B.cD,B.ih,B.c3,A.b([r.O(0.25),B.a3,B.o.O(0.9)],p),s,s),B.a1),B.br),A.qk(n+"/storage/v1/object/public/store-assets/kf-coordinator-splash/"+q.toLowerCase()+".jpg?v=20261023085800",B.cC,new A.alC(this),B.bd,B.c6,!0,s,s,s),new A.dQ(B.dk,s,s,A.cM(s,s,B.q,s,s,new A.bT(s,s,s,s,s,new A.iO(B.cC,B.dk,B.c3,A.b([B.w,B.o.O(0.85)],p),s,s),B.a1),s,this.d*0.38,s,s,s,s,s),s),A.lr(8,A.M("COORDENA\xc7\xc3O",1,B.av,s,A.ay(s,s,r.O(0.95),s,s,s,s,s,s,s,s,9,s,s,B.cd,s,s,!0,s,1.1,s,s,s,s,s,s),s,s),s,s,8,8,s,s)],t.p),B.S,B.i0,s),B.aU)}}
 A.alC.prototype={
 $3(a,b,c){var s=null
 return A.c3(A.cP(B.O1,this.a.c.d.O(0.45),s,s,40),s,s)},
